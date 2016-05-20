@@ -5,6 +5,10 @@
 ###1）教工登录和注册部分
 ![登录界面](https://github.com/achuan301/StudentManagerSystem/blob/master/raw/master/screenshots/login.png) ![注册界面](https://github.com/achuan301/StudentManagerSystem/blob/master/raw/master/screenshots/register.png)
 ###2）主管理界面和教工信息菜单栏
+![信息管理界面](https://github.com/achuan301/StudentManagerSystem/blob/master/raw/master/screenshots/manager-message.png)
+![]()
+![]()
+![]()
 
 
 
