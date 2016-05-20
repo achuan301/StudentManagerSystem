@@ -1,1 +1,7 @@
-# StudentManagerSystem
+基于Android的学生信息管理系统
+
+本项目的内容主要包含三个部分，其中第一部分中FirstOpenActivity.java是软件启动界面，loginActivity.java是登录界面,registerActivity.java是注册界面；其中第二部分中ManagerActivtiy.java是学生信息列表和用户信息管理菜单界面；其中第三部分中EditorStudentActivity.java是学生信息编辑界面，ShowStudentInfo.java是学生详细信息显示界面；
+
+效果图：
+
+ 
