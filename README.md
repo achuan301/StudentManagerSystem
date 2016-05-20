@@ -11,7 +11,7 @@
 ![编辑界面](https://github.com/achuan301/StudentManagerSystem/blob/master/raw/master/screenshots/add-message.png)
 ![详细信息界面](https://github.com/achuan301/StudentManagerSystem/blob/master/raw/master/screenshots/show-message.png)
 ###4）美观和系统稳定部分
-整个项目使用了自定义的Topbar(标题栏)模板，使用了接口回调机制，使得代码得到复用；界面跳转使用了延时，保证了使用的流畅性；
+####整个项目使用了自定义的·Topbar·(标题栏)模板，使用了接口回调机制，使得代码得到复用；界面跳转使用了延时，保证了使用的流畅性；
 
 
 
