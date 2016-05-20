@@ -9,7 +9,7 @@
 ![左侧菜单](https://github.com/achuan301/StudentManagerSystem/blob/master/raw/master/screenshots/left-menu.png)
 ###3）学生信息操作处理部分
 ![编辑界面](https://github.com/achuan301/StudentManagerSystem/blob/master/raw/master/screenshots/add-message.png)
-![]()
+![详细信息界面](https://github.com/achuan301/StudentManagerSystem/blob/master/raw/master/screenshots/show-message.png)
 
 
 
